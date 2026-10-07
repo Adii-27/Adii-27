@@ -66,16 +66,25 @@ A real-world website created for **Dariyapur Shiv Mandir, Kanti**.
 
 ---
 
-### 🍽️ The Open One — Food Web Application
+### 🍽️ THE OPEN ONE — Restaurant Web Application
 
-A modern food-focused web application currently under development.
+A real-world restaurant web application designed and developed for **THE OPEN ONE, Patna, Bihar**.
 
-- 🔨 **Status:** In Active Development
-- 🎯 **Focus:** User experience, modern interfaces, and practical web development
-- 🤖 **Development:** AI-assisted
-- 🚧 **More details coming as development progresses**
+- 🚀 **Status:** Live & Deployed
+- 🎯 **Focus:** Real-world business requirements, user experience, and responsive web development
+- ⚛️ **Frontend:** React + TypeScript + Vite
+- 🎨 **Styling:** Tailwind CSS / Responsive UI
+- 🖥️ **Backend:** Node.js + Express
+- 🗄️ **Database:** MySQL
+- 🔐 **Authentication:** Secure admin authentication
+- 📱 **Design:** Responsive & mobile-first
+- ✨ **Features:** Interactive menu, search & filtering, cart experience, customer reviews, contact system, FAQ, gallery, PWA, SEO
+- 📧 **Integrations:** Email notifications and business enquiry handling
+- ☁️ **Deployment:** Vercel
+- 🤖 **Development:** AI-assisted, with hands-on implementation, testing, refinement, and deployment
 
----
+🔗 **[Live Website](https://theopenone.vercel.app/)**  
+💻 **[Source Code / Showcase](https://github.com/Adii-27/The-open-one-website)**
 
 ## 📚 DSA Journey
 
