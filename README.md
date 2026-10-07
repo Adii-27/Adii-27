@@ -26,17 +26,6 @@ the process of turning ideas into working products.
 
 ---
 
-## 🎯 Current Journey
-
-- 📚 **Currently:** Data Structures & Algorithms + Java
-- 🧠 **Focus:** Problem Solving & Core Programming
-- 🌐 **Next:** Web Development → Full-Stack Development
-- 🚀 **Building:** Real-world and deployed projects
-- 🤖 **Exploring:** AI-assisted software development
-- 💼 **Goal:** Prepare for Software Development Engineer roles
-
----
-
 ## 🛠️ Skills & Tools
 
 ### Currently Learning / Working With
@@ -120,14 +109,6 @@ My workflow includes using AI for:
 - 🐛 Debugging
 - 📚 Learning unfamiliar concepts
 - ⚡ Accelerating development
-
----
-
-## 📈 My Goal
-
-To become a strong software engineer by combining:
-
-**DSA + Problem Solving + Web Development + AI-assisted Development + Real-world Projects**
 
 ---
 
