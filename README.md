@@ -54,7 +54,7 @@ the process of turning ideas into working products.
 A real-world website created for **Dariyapur Shiv Mandir, Kanti**.
 
 - 🚀 **Status:** Live & Deployed
-- 🤖 **Development:** AI-assisted
+- 🤖 **Development::** AI-assisted, with hands-on implementation, testing, refinement, and deployment
 - ⚛️ **Frontend:** React + TypeScript
 - 🎨 **Styling:** Tailwind CSS
 - 🗂️ **CMS:** Sanity
